@@ -15,7 +15,7 @@ const videoData = [
     {
         date: "23-11-2025",
         topic: "C++ compiler, Python interpreter, Java compile to byte code and run on JVM",
-        file: "assets/videos/c++ compiler.m4a"
+        file: "assets/videos/c++compiler.m4a"
     },
     {
         date: "24-11-2025",
@@ -30,7 +30,7 @@ const videoData = [
     {
         date: "13-12-2025",
         topic: "9th Dec class: some Python concepts with program",
-        file: "assets/videos/python concepts.m4a"
+        file: "assets/videos/pythonconcepts.m4a"
     },
     {
         date: "17-12-2025",
@@ -40,7 +40,7 @@ const videoData = [
     {
         date: "17-12-2025",
         topic: "DNS to IP Address, HTTP Request",
-        file: "assets/videos/dns to ip.mp4"
+        file: "assets/videos/dnstoip.mp4"
     },
     {
         date: "19-12-2025",
@@ -50,7 +50,7 @@ const videoData = [
     {
         date: "19-12-2025",
         topic: "Call Stack Internals: running in memory, program counter, return address",
-        file: "assets/videos/call stack internals.m4a"
+        file: "assets/videos/callstackinternals.m4a"
     },
     {
         date: "24-12-2025",
@@ -70,12 +70,12 @@ const videoData = [
     {
         date: "02-01-2026",
         topic: "APIs in client-server model",
-        file: "assets/videos/api in client server.m4a"
+        file: "assets/videos/apiinclientserver.m4a"
     },
     {
         date: "03-01-2026",
         topic: "URL, URI, request/response, curl, netcat, browser dev-tools",
-        file: "assets/videos/url uri.m4a"
+        file: "assets/videos/urluri.m4a"
     }
 ];
 
